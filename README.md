@@ -1,4 +1,4 @@
-Rough PCB designs for our robot hand project, this is a work in progress being developed in altium designer
+Rough PCB drafts for our robot hand project, this is a work in progress being developed in altium designer
 
 There is an analog PCB that contains a motor driver, barrel jack power supply, a header to connect to the motor, and a header to connect to the digital PCB.
 
