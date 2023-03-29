@@ -5,6 +5,10 @@ There is an analog PCB that contains a motor driver, power supply, a header to c
 the digital PCB contains an ESP 32 microcontroller a motor decoder chip as well as a multiplexer to reduce the number of pins needed and it contains a pin header
 to connect to an ultrasound sensor
 
+Analog PCB
+![image](https://user-images.githubusercontent.com/73015873/228427630-da930c62-378f-4253-94cb-56ebc1cf0e9d.png)
+
+
 
 
 Digital PCB 
